@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Héctor García
-- 👀 I’m interested in moderns designs implementing them with my Front - End knowledge
+- 👀 I’m interested in modern designs implementing them with my Front - End knowledge
 - 🌱 I’m currently learning React and NodeJS to become a Fullstack Developer
 - 💞️ I’m looking to collaborate on any project that needs a well designed Front - End
 - 📫 How to reach me: hector032716@gmail.com
